@@ -1,7 +1,7 @@
 # --- Serving options --- #
 # If you are building a GitHub project page then use these settings:
 # url is the full website URL
-url: "https://brownbiostats.github.io/"
+url: "https://brownbiostats.github.io/php2511"
 # baseurl is the website's URL without the hostname
 baseurl: "/php2511"
 
