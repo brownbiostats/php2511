@@ -17,13 +17,9 @@ avatar: "/img/php2511.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  Examples: "examples"
-  Packages: "packages"
-  Data: "data"
-  Courses: "courses"
-  Exposure: "exposure"
-  Contact: "contact"
+  Syllabus: "syllabus"
+  Project: "project"
+  R Education: "r"
 
 # --- Footer options --- #
 author:
@@ -38,7 +34,7 @@ footer-links-active:
   github: true
   twitter: true
   facebook: false
-  rss: true
+  rss: false
   linkedin: false
   stackoverflow: false
 
