@@ -20,6 +20,7 @@ navbar-links:
   Syllabus: "syllabus"
   Project: "project"
   R Education: "r"
+  Contact: "contact"
 
 # --- Footer options --- #
 author:
