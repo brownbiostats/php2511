@@ -19,7 +19,7 @@ avatar: "/img/php2511.jpg"
 navbar-links:
   Syllabus: "syllabus"
   Project: "project"
-  R Education: "r"
+  R Education: "https://brownbiostats.github.io/Introduction-to-R/"
   Contact: "contact"
 
 # --- Footer options --- #
