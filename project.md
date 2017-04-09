@@ -163,3 +163,16 @@ Suggested Replication further reading:
 - King (2006) [Publication, publication. Ps: Political Science and Politics.](http://gking.harvard.edu/files/gking/files/paperspub.pdf)
 - King (1995) [Replication, replication. Ps: Political Science and Politics .](http://gking.harvard.edu/files/gking/files/replication.pdf)
 - [Princeton Sociology 504 Replication Projects.](https://github.com/soc504-s2015-princeton/links_to_projects)
+
+
+
+
+# Schedule
+
+|-----------|-------------|
+| Date | Item Due|
+| ---- | ------- | 
+| 04/17/2017 | Proposal Due | 
+| 05/01/2017 | Most of Analysis Should be done | 
+| 05/18/2017 | Final paper Due|
+
