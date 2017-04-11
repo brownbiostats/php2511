@@ -21,8 +21,8 @@ The secondary goals of this project are to
 
 1. Give you practice learning how to ask a research question. 
 2. Give you practice interpreting a research question into statistical methods.
-3) Give you practice learning apply statistical methods and computational techniques.
-4) Display the true complexities to working with real data and and an open ended question. 
+3. Give you practice learning apply statistical methods and computational techniques.
+4. Display the true complexities to working with real data and and an open ended question. 
 
 ## Replication and Extension Project Description
 
@@ -33,14 +33,14 @@ The secondary goals of this project are to
 
 1. Give you practice learning how to evaluate published research. 
 2. Give you practice interpreting a research question into statistical methods.
-3) Give you practice learning apply statistical methods and computational techniques.
-4) Display the true complexities to working with real data and and an open ended question. 
+3. Give you practice learning apply statistical methods and computational techniques.
+4. Display the true complexities to working with real data and and an open ended question. 
 
 
 
 ## Project Requirements
 
-For the project, you must follow the schedule and meet certian technical requirements.
+For the project, you must follow the schedule and meet certain technical requirements.
 
 Here are the six steps to the project:
 
